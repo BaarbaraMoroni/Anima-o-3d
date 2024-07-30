@@ -1,4 +1,4 @@
-Animação 3d:
+# Animação 3D -MONALISA NO CÉU ESTRELADO
  **Três formas geométricas**:
  - Cubo
  - 2  esferas
@@ -28,4 +28,10 @@ Animação 3d:
 
 ![image](https://github.com/user-attachments/assets/b54c7095-814d-4b11-ada8-2773c736d4cf)
 
+**Tecnologias**:
+ - HTML
+- CSS
+- JavaScript
+- WebGL
+- Three.js
  
