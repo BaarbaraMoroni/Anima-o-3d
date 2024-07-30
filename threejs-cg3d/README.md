@@ -1,8 +1,8 @@
 
 
 
-npm install parcel -g
-npm install
-npx parcel ./src/index.html
+- npm install parcel -g
+- npm install
+- npx parcel ./src/index.html
 
 
