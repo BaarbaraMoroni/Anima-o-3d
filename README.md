@@ -1,8 +1,8 @@
 Animação 3d:
  **Três formas geométricas**:
- -Cubo
- -2  esferas
- -Triângulo 
+ - Cubo
+ - 2  esferas
+ - Triângulo 
 
 **Materiais**:
   - Material com textura do cubo- Monalisa de Leonardo da Vinci
@@ -15,14 +15,17 @@ Animação 3d:
 
 
 **Textura**:
--Pintura de Vincent Van Gogh
+- Pintura de Vincent Van Gogh
 
  ![image](https://github.com/user-attachments/assets/f78b9fc3-a05e-44a4-8458-e7a64c75eeba)
 
 **Iluminação**:
--Uma luz ambiente
--Um holofote
+ - Uma luz ambiente
+- Um holofote
 
 **Modelo externo**:
--Animação Monkey
+- Animação Monkey
+
+![image](https://github.com/user-attachments/assets/b54c7095-814d-4b11-ada8-2773c736d4cf)
+
  
