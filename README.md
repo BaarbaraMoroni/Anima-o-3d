@@ -6,19 +6,19 @@ Animação 3d:
 
 **Materiais**:
   - Material com textura do cubo- Monalisa de Leonardo da Vinci
+    
     ![image](https://github.com/user-attachments/assets/5eb19b46-1be3-484e-adb2-d7b5ffc8ea6f)
 
   - Material com textura do fundo- A Noite Estrelada de Vincent Van Gogh
+    
    ![image](https://github.com/user-attachments/assets/f78b9fc3-a05e-44a4-8458-e7a64c75eeba)
 
 
 **Textura**:
 -Pintura de Vincent Van Gogh
+
  ![image](https://github.com/user-attachments/assets/f78b9fc3-a05e-44a4-8458-e7a64c75eeba)
 
-
-
-    
 **Iluminação**:
 -Uma luz ambiente
 -Um holofote
