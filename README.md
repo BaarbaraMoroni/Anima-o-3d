@@ -14,7 +14,7 @@
    ![image](https://github.com/user-attachments/assets/f78b9fc3-a05e-44a4-8458-e7a64c75eeba)
 
 
-**Textura**:
+**Textura do fundo**:
 - Pintura de Vincent Van Gogh
 
  ![image](https://github.com/user-attachments/assets/f78b9fc3-a05e-44a4-8458-e7a64c75eeba)
