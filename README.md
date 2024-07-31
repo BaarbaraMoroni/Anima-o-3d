@@ -1,7 +1,7 @@
 # Animação 3D -MONALISA NO CÉU ESTRELADO
  **Três formas geométricas**:
  - Cubo
- - 2  esferas
+ - Esfera
  - Triângulo 
 
 **Materiais**:
